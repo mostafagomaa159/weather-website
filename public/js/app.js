@@ -1,4 +1,3 @@
-console.log("Client Side JS file is loaded!")
 
 
 
